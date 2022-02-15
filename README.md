@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @amsopian22
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Udemy, Coursera, and everything
-- 💞️ I’m looking to collaborate on people want to teach and pay me
+- 🌱 I’m currently learning Udemy
+- 💞️ I’m master degree of computer science
+- 🎗 I'm bachelor degree of Statistics
 - 📫 How to reach me just say hi
 
 <!---
