@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @amsopian22
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Udemy
-- 💞️ I’m master degree of computer science
-- 🎗 I'm bachelor degree of Statistics
-- 📫 How to reach me just say hi
+Hello there, I’m Ahmad Sopian,but you can call me Ahmad. Presently, I interested hire for Data Science. I’m master degree of computer science anda bachelor degree of Statistics. 
 
 <!---
 amsopian22/amsopian22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
